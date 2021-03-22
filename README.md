@@ -10,7 +10,7 @@ A learning/demo repository to learn the basic principles of bootstrap.
 
 ## To Do
 
-- Add stylsheet and personalise the style
+- Add stylesheet and personalise the style
 
 ## Acknowledgements
 
