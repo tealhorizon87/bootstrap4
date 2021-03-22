@@ -8,6 +8,10 @@ A learning/demo repository to learn the basic principles of bootstrap.
 -   Git
 -   Atom
 
+## To Do
+
+- Add stylsheet and personalise the style
+
 ## Acknowledgements
 
 This page was created following lessons with Code Institute.
