@@ -1,4 +1,4 @@
-# Bootstrap 4
+# Whiskey Drop
 
 A learning/demo repository to learn the basic principles of bootstrap.
 
